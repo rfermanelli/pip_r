@@ -1,6 +1,6 @@
 # Directory degli ambienti virtuali
 env/
-venv/
+.venv/
 
 # Directory di cache di Python
 __pycache__/
